@@ -2,7 +2,7 @@
 
 This repository contains the experiment code for the paper *"Multi-Hop Task Offloading Based on Diffusion-Enabled Deep Reinforcement Learning in RSU-Assisted Internet of Vehicles"*.
 
-We study multi-hop task offloading in Road Side Unit (RSU)-assisted Internet of Vehicles (IoV), where RSUs can offload computation tasks to cloud servers, neighboring RSUs, and mobile vehicles (via multi-hop V2V relaying). A diffusion-enabled deep reinforcement learning (DiffRL) method is proposed to make offloading decisions, and it is compared against DQN, A3C, and Greedy baselines.
+We study multi-hop task offloading in RSU-assisted IoV, where RSUs can offload computation tasks to cloud servers, neighboring RSUs, and mobile vehicles (via multi-hop V2V relaying). A diffusion-enabled DRL method is proposed to make offloading decisions, and it is compared against DQN, A3C, and Greedy baselines.
 
 ## Repository Structure
 
